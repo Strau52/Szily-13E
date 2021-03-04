@@ -11,3 +11,8 @@ Code gomb mellett a letöltés nyílra katt, majd mentés a kiválaszott állom�
 
 #### Git
 Windows esetén: töltsd le, telepítsd, indítsd el: https://git-scm.com/downloads
+
+
+Későbbi "frissítések letöltése":\
+`git pull` a gyökérmappából
+
