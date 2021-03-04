@@ -1,0 +1,13 @@
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.exe
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.deps.json
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.runtimeconfig.json
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.runtimeconfig.dev.json
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.dll
+C:\Users\kirit\source\repos\OOPHF\OOPHF\bin\Debug\netcoreapp3.1\OOPHF.pdb
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.AssemblyInfoInputs.cache
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.AssemblyInfo.cs
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.dll
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.pdb
+C:\Users\kirit\source\repos\OOPHF\OOPHF\obj\Debug\netcoreapp3.1\OOPHF.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\bin\Debug\OOP gyak.exe.config
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\bin\Debug\OOP gyak.exe
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\bin\Debug\OOP gyak.pdb
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\obj\Debug\OOP gyak.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\obj\Debug\OOP gyak.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\obj\Debug\OOP gyak.exe
+C:\Users\kirit\source\repos\OOP gyak\OOP gyak\obj\Debug\OOP gyak.pdb

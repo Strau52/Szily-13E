@@ -1,0 +1,7 @@
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\bin\Debug\OOPinCSharp.exe.config
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\bin\Debug\OOPinCSharp.exe
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\bin\Debug\OOPinCSharp.pdb
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\obj\Debug\OOPinCSharp.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\obj\Debug\OOPinCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\obj\Debug\OOPinCSharp.exe
+C:\Users\kirit\source\repos\OOPinCSharp\OOPinCSharp\obj\Debug\OOPinCSharp.pdb

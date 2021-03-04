@@ -1,0 +1,7 @@
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\bin\Debug\CShaprOOPTriangle.exe.config
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\bin\Debug\CShaprOOPTriangle.exe
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\bin\Debug\CShaprOOPTriangle.pdb
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\obj\Debug\CShaprOOPTriangle.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\obj\Debug\CShaprOOPTriangle.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\obj\Debug\CShaprOOPTriangle.exe
+C:\Users\kirit\source\repos\CShaprOOPTriangle\CShaprOOPTriangle\obj\Debug\CShaprOOPTriangle.pdb

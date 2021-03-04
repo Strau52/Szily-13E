@@ -1,0 +1,7 @@
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.exe
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\bin\Debug\CSharpBasics.pdb
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.exe
+C:\Users\kirit\source\repos\CSharpBasics\CSharpBasics\obj\Debug\CSharpBasics.pdb
