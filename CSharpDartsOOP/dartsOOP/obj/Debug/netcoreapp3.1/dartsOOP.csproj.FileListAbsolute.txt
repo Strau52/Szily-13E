@@ -11,3 +11,16 @@ C:\Users\kirit\source\repos\dartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.c
 C:\Users\kirit\source\repos\dartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.dll
 C:\Users\kirit\source\repos\dartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.pdb
 C:\Users\kirit\source\repos\dartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.genruntimeconfig.cache
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.exe
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.deps.json
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.runtimeconfig.json
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.runtimeconfig.dev.json
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.dll
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\bin\Debug\netcoreapp3.1\dartsOOP.pdb
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.csprojAssemblyReference.cache
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.AssemblyInfoInputs.cache
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.AssemblyInfo.cs
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.csproj.CoreCompileInputs.cache
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.dll
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.pdb
+G:\Szilys anyagok\1.13E ASZTF\Szily-13E\CSharpDartsOOP\dartsOOP\obj\Debug\netcoreapp3.1\dartsOOP.genruntimeconfig.cache

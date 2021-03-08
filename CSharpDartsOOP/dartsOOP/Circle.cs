@@ -10,7 +10,9 @@ namespace dartsOOP
         private int r;
         private int x;
         private int y;
-
+        private int score;
+        public int Score { get => score; private set => score = value; }
+        
         public Circle(int r)
         {
             this.r = r;
@@ -34,9 +36,11 @@ namespace dartsOOP
         public double Distance(int x, int y)
         {
             double distance = Math.Sqrt(Math.Pow(x - this.x, 2) + Math.Pow(y - this.y, 2));
-            //TODO: score
+            if (this.IsInTheCircle(x, y))
+            {
+                Score += Math.Abs((this.r - Convert.ToInt32(distance)) * 20);
+            }
             return distance;
         }
-        
     }
 }

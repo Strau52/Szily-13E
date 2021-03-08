@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kirit\\source\\repos\\dartsOOP\\dartsOOP\\dartsOOP.csproj": {}
+    "G:\\Szilys anyagok\\1.13E ASZTF\\Szily-13E\\CSharpDartsOOP\\dartsOOP\\dartsOOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kirit\\source\\repos\\dartsOOP\\dartsOOP\\dartsOOP.csproj": {
+    "G:\\Szilys anyagok\\1.13E ASZTF\\Szily-13E\\CSharpDartsOOP\\dartsOOP\\dartsOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kirit\\source\\repos\\dartsOOP\\dartsOOP\\dartsOOP.csproj",
+        "projectUniqueName": "G:\\Szilys anyagok\\1.13E ASZTF\\Szily-13E\\CSharpDartsOOP\\dartsOOP\\dartsOOP.csproj",
         "projectName": "dartsOOP",
-        "projectPath": "C:\\Users\\kirit\\source\\repos\\dartsOOP\\dartsOOP\\dartsOOP.csproj",
+        "projectPath": "G:\\Szilys anyagok\\1.13E ASZTF\\Szily-13E\\CSharpDartsOOP\\dartsOOP\\dartsOOP.csproj",
         "packagesPath": "C:\\Users\\kirit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kirit\\source\\repos\\dartsOOP\\dartsOOP\\obj\\",
+        "outputPath": "G:\\Szilys anyagok\\1.13E ASZTF\\Szily-13E\\CSharpDartsOOP\\dartsOOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
