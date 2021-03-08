@@ -1,0 +1,16 @@
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.exe
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.deps.json
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.runtimeconfig.json
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.runtimeconfig.dev.json
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.dll
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\ref\OOPZooEnum.dll
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\bin\Debug\net5.0\OOPZooEnum.pdb
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.csprojAssemblyReference.cache
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.AssemblyInfoInputs.cache
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.AssemblyInfo.cs
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.csproj.CoreCompileInputs.cache
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.dll
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\ref\OOPZooEnum.dll
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.pdb
+C:\Users\kirit\source\repos\OOPZooEnum\OOPZooEnum\obj\Debug\net5.0\OOPZooEnum.genruntimeconfig.cache
